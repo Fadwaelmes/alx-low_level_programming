@@ -1,5 +1,10 @@
 #include <stdio.h>
-/* Code goes here */
+/**
+ * main - main function
+ *
+ * Return: Always 0
+ */
+
 int main(void)
 {
 	char letter;
